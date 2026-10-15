@@ -1,0 +1,23 @@
+# CubeMX & Keil MDK 垃圾文件
+*.uvgui*
+*.uvoptx
+*.uvprojx.bak
+Debug/
+Release/
+*.hex
+*.bin
+*.elf
+*.map
+*.o
+*.d
+*.crf
+*.dep
+*.lst
+*.sct
+*.tra
+# CubeMX生成临时文件
+*.ioc.bak
+.MX_*/
+# 系统文件
+Thumbs.db
+.DS_Store
